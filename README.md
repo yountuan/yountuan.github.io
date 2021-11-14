@@ -9,7 +9,7 @@ And down there is the discography of Ludovico.
 ![Снимок экрана (159)](https://user-images.githubusercontent.com/73512902/141699404-a38655cb-baf5-47dd-8c3c-824a04f850fc.png)
 Here you can see three of his album photos and else in the right bottom you can see contact bar. You can just click on what you need and it will provide you needed process. For example, you can try to click on phone number and see what happens :)
 ![Снимок экрана (160)](https://user-images.githubusercontent.com/73512902/141699398-483be16f-b272-4cf0-a254-614afa284a3f.png)
-One more convenient thing is that the appearance of the web-site isstill looks good even if you collapse the page.
+One more convenient thing is that the appearance of the website is still looks good even if you collapse the page. This is because the design is responsive.
 ![Снимок экрана (161)](https://user-images.githubusercontent.com/73512902/141699394-9f411930-b7c3-4c57-8a04-1b08096fe0a1.png)
 
 Thank you for your attention. I tried very hard.
