@@ -1,6 +1,6 @@
 # webTech
 
-WElcome to Einaudi's fan page project made by Aida Osmonova.
+Welcome to Einaudi's fan page project made by Aida Osmonova.
 At the top of the page you can see navigation bar where you can find useful things such as links that will take you to another window page to the other related sources.
 ![Снимок экрана (157)](https://user-images.githubusercontent.com/73512902/141699424-384db330-1cf5-4036-b341-0b55e3d7e1e4.png)
 Here you can see embeded youtube video of Ludovico's performance so you wont need to look for it apartly. Everything for your comfort
