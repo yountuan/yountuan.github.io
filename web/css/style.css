@@ -1,0 +1,104 @@
+body {
+	margin: 0;
+	background: url("../img/images.jpg");
+	font-family: Tahoma;
+	line-height: 1.5;
+	font-size: 18px;
+}
+
+.card {
+	width: 400px;
+	margin: 25px auto;
+	padding: 20px;
+
+	background-color: #fff;
+	box-shadow: 0 5px 10px;
+	border-radius: 9px;
+}
+
+.card-photo {
+	display: block;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+
+.card-title {
+	font-size: 20px;
+	text-align: center;
+	color:#1B4F72;
+}
+
+.card-text {
+	font-size: 14px;
+}
+
+.title-bar {
+	margin: 20px auto;
+	padding: 20px;
+	font-size: 20px;
+	text-align: center;
+	color: #566573 ;
+
+}
+
+.video {
+	text-align: center;
+}
+
+
+.subtitle {
+	margin: 20px;
+	padding: 20px;
+	font-size: 30px;
+	columns: #315fc7;
+	text-align: center;
+}
+
+.studio-albums {
+	font-size: 20;
+}
+
+.live-album {
+	font-size: 20;
+}
+
+.contacts {
+	
+	font-size: 30px;
+	columns: #315fc7;
+	text-align: right;
+
+}
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+	content: "";
+	clear: both;
+	display: table;
+  }
+  
+
+footer{
+	text-align: right;
+}
+
+.discography {
+	margin: 30px auto;
+	padding:20px;
+	background-color: #fff;
+	box-shadow: 0 5px 10px #ccc;
+}
+
+.disc-photo {
+	display: block;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+}
